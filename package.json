@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.940.0",
+    "@aws-sdk/s3-request-presigner": "^3.940.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "i": "^0.3.7",
+    "mime-types": "^3.0.2",
+    "npm": "^11.6.4"
+  }
+}
